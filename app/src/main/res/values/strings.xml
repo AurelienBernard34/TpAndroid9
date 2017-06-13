@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">TpAndroid9</string>
+    <string name="create">onCreate</string>
+    <string name="pause">onPause</string>
+    <string name="resume">onResume</string>
+    <string name="stop">onStop</string>
+    <string name="destroy">onDestroy</string>
+    <string name="onRestoreInstanceState">onRestoreInstanceState</string>
+    <string name="onSaveInstanceState">onSaveInstanceState</string>
 </resources>
